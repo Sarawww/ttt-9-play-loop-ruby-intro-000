@@ -36,7 +36,9 @@ def turn(board)
 end
 
 # Define your play method below
-def play
+play_counter = 0
+def play(board)
+  
   
 end
 
